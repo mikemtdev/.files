@@ -1,0 +1,21 @@
+[user]
+	email = mikemnjovu@gmail.com
+	name = mikenjovu
+
+[alias]
+  co = checkout
+  cob = checkout -b
+  ci = commit
+  cim = commit -m
+  br = branch
+  mer = merge
+  ada = add .
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  type = cat-file -t
+
+  st = status
+
+  # stash
+  ss = stash seve
+  sp = stash pop
+  sa = stash apply
