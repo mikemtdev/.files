@@ -1,1 +1,1 @@
-# My Repository of config files
+# My Repository of dot files
